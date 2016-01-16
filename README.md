@@ -1,0 +1,4 @@
+# phoenix-browser
+phoenixframework平台的一个模块，基于jbrowser定制的浏览器，用于对页面元素进行录制
+
+该版本暂不支持新弹出的浏览器窗口的录制
